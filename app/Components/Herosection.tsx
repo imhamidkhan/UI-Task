@@ -22,7 +22,7 @@ const HeroSection = () =>{
                 <a href="#" className="text-right outline-none font-medium text-primary">Forgot Password?</a>
               </div>
               <button className="p-4 outline-none bg-[#00ABE1] text-xl text-white rounded-[10px]">Login</button>
-              <p className="py-6 text-[21px] text-[#127398] flex justify-center items-center  gap-x-4"><span>Don't have an account?</span> <a href="#" className="text-[#00ABE1] font-semibold text-[20px] outline-none">Create One</a></p>
+              <p className="py-6 text-[21px] text-[#127398] flex justify-center items-center  gap-x-4"><span>Don&apos;t have an account?</span> <a href="#" className="text-[#00ABE1] font-semibold text-[20px] outline-none">Create One</a></p>
             </div>
           </div>
         </div>
