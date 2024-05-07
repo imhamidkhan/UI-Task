@@ -1,4 +1,4 @@
-export default ()=>{
+const Componentthree = () =>{
     return (<>
      <div className="flex justify-center items-center h-auto sm:h-[720px] p-8 sm:p-12 bg-auto bg-center bg-blue-pattern ">
           <div className=" flex sm:flex-row flex-col-reverse gap-8 justify-between sm:justify-center items-center h-[450px] sm:h-[600px] p-8 sm:p-20 bg-white rounded-[32px] mx-auto ">
@@ -14,3 +14,4 @@ export default ()=>{
     
     </>)
 }
+export default Componentthree;

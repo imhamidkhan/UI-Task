@@ -1,4 +1,4 @@
-export default  () =>{
+const Componentone = () =>{
     return (<>
  
  <div className="relative h-[680px] px-12 pt-32 mt-28 pb-16 bg-auto bg-center bg-skyblue-pattern hidden sm:block">
@@ -25,3 +25,4 @@ export default  () =>{
     
     </>)
     }
+  export default Componentone;

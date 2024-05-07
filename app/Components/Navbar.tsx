@@ -1,4 +1,5 @@
-export default  () =>{
+const Navbar = () =>{
+
 return (<>
 <nav className="flex sm:flex-row flex-col-reverse gap-y-4 justify-between items-center py-5 sm:px-12 px-8">
         <div className="">
@@ -18,3 +19,4 @@ return (<>
 
 </>)
 }
+export default Navbar;

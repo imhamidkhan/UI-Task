@@ -1,4 +1,4 @@
-export default  () =>{
+const HeroSection = () =>{
     return (<>
    <div className="hidden sm:flex justify-between items-center h-[640px] py-20 px-40">
           <div className="w-[500px] h-[225px] flex flex-col items-center justify-center">
@@ -43,3 +43,4 @@ export default  () =>{
     
     </>)
     }
+  export default HeroSection;

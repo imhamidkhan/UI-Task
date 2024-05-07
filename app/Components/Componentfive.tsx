@@ -1,4 +1,4 @@
-export default ()=>{
+const Componentfive = () =>{
     return (<>
       <div className="flex justify-center items-center h-auto  sm:h-[720px] p-8 sm:p-12 bg-auto bg-center bg-purple-pattern">
           <div className="flex sm:flex-row flex-col gap-8 justify-between sm:justify-center items-center h-[480px] sm:h-[600px] p-8 sm:p-20 bg-white rounded-[32px]">
@@ -15,3 +15,4 @@ export default ()=>{
     
     </>)
 }
+export default Componentfive;
